@@ -141,7 +141,7 @@ The sub-generator will ask you for the module name under which you would like to
 
 ## AngularJS View Sub-Generator
 
-Once you have your controller file ready, you may want to add a view that makes use of this controller. The AngularJS view sub-generator will create a new AngularJS view in thr specified module's **views** folder, and will allow you to add a route definition for it. To create a new AngularJS view you will need to execute this command:
+Once you have your controller file ready, you may want to add a view that makes use of this controller. The AngularJS view sub-generator will create a new AngularJS view in the specified module's **views** folder, and will allow you to add a route definition for it. To create a new AngularJS view you will need to execute this command:
 
 
 ```
@@ -273,7 +273,7 @@ $ yo meanjs:express-test <model-name>
 This will create a test file for your Express model, and if the sub-generator doesn’t find the specified model, it will create one for you.
 
 
-**Don’t forget!** You're suppose to pass the model name as an argument.
+**Don’t forget!** You're supposed to pass the model name as an argument.
 
 ## License
 
